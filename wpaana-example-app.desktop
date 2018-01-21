@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Wapaana Example App
+Exec=firefox -app /opt/wpaana/runner/application.ini --url https://github.com/precz/wpaana
+Type=Application
