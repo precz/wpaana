@@ -12,6 +12,6 @@
   <xul:browser flex="1"
                id  ="browser"
                src =""
-               type="content-primary"
+               type="content"
   />
 </xul:window>
