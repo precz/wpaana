@@ -1,7 +1,11 @@
-# wpaana
+# [DEPRECATED] wpaana
 *Web page as an native application.* 
 Now most of apps has their implementation as an web pages (e.x. Spotify, Facebook, Messenger, ...). Lots of web pages works almost like apps, so why not run them as an native ones? [XKCD webcomic related](https://xkcd.com/1367/)  
 This is not the first app that deliver that functionality, but I believe that it's the one that use [Firefox](https://www.mozilla.org/pl/firefox/new/) instead of [Chrome](https://www.google.pl/chrome/browser/desktop/index.html).
+
+## Deprecated
+
+This method of creating native applications was not working any more as #firefox stopped supporting #XUL applications. [Progressive Web Apps for Firefox](https://github.com/filips123/PWAsForFirefox) for Firefox is a better solution that should be used instead. There is no point for further development and fixing.
 
 ## Install
 *Curently only Linux is supported (but it might work on macOS anyway).*
